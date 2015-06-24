@@ -1,0 +1,9 @@
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\bin\Debug\cardpackWriter.exe.config
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\bin\Debug\cardpackWriter.exe
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\bin\Debug\cardpackWriter.pdb
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\obj\Debug\cardpackWriter.csprojResolveAssemblyReference.cache
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\obj\Debug\cardpackWriter.Form1.resources
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\obj\Debug\cardpackWriter.Properties.Resources.resources
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\obj\Debug\cardpackWriter.csproj.GenerateResource.Cache
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\obj\Debug\cardpackWriter.exe
+c:\users\rhys\documents\visual studio 2013\Projects\cardpackWriter\cardpackWriter\obj\Debug\cardpackWriter.pdb
